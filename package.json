@@ -1,6 +1,6 @@
 {
-  "name": "syslog-parse",
-  "version": "1.0.3",
+  "name": "oakleon-syslog-parse",
+  "version": "1.0.4-oakleon.1",
   "description": "Parse syslog-format messages",
   "main": "index.js",
   "scripts": {
@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vdemedes/syslog-parse.git"
+    "url": "https://github.com/chrishiestand/syslog-parse.git"
   },
   "keywords": [
     "syslog"
   ],
-  "author": "Vadim Demedes <vdemedes@gmail.com>",
+  "author": "Chris Hiestand <chris@oakleon.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vdemedes/syslog-parse/issues"
+    "url": "https://github.com/chrishiestand/syslog-parse/issues"
   },
-  "homepage": "https://github.com/vdemedes/syslog-parse",
+  "homepage": "https://github.com/chrishiestand/syslog-parse",
   "devDependencies": {
     "chai": "^3.0.0",
     "mocha": "^2.2.5"
